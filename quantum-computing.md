@@ -22,6 +22,8 @@ This is a curated list of all the research that interest me.
 2. https://arxiv.org/abs/2108.06569 LILLIPUT: A Lightweight Low-Latency Lookup-Table Based Decoder for Near-term Quantum Error Correction
 3. https://memlab.ece.gatech.edu/papers/ISCA_2023_1.pdf Astrea: Accurate Quantum Error-Decoding via Practical Minimum-Weight Perfect-Matching
 4. https://arxiv.org/abs/2404.03136 Promatch: Extending the Reach of Real-Time Quantum Error Correction with Adaptive Predecoding
+5. http://www.inference.org.uk/mackay/qeccFinal.pdf Sparse-Graph Codes for Quantum Error-Correction
+6. https://ieeexplore.ieee.org/document/910579 Efficient encoding of low-density parity-check codes
 
 ## Want to Read
 
@@ -33,4 +35,6 @@ This is a curated list of all the research that interest me.
 6. https://arxiv.org/abs/0909.3304 Quantum state tomography via compressed sensing
 7. https://www.nature.com/articles/s41586-019-1666-5 Quantum supremacy using a programmable superconducting processor
 8. https://arxiv.org/abs/1205.2300 Quantum Tomography via Compressed Sensing: Error Bounds, Sample Complexity, and Efficient Estimators
+9. https://odr.chalmers.se/items/0b99f6af-a7d0-45f3-b747-1143d855f4a4 Machine Learning Assisted Quantum Error Correction Using Scalable Neural Network Decoders
+10. https://arxiv.org/pdf/1812.08451v5 Optimizing Quantum Error Correction Codes with Reinforcement Learning
    
