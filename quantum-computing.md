@@ -24,6 +24,7 @@ This is a curated list of all the research that interest me.
 4. https://arxiv.org/abs/2404.03136 Promatch: Extending the Reach of Real-Time Quantum Error Correction with Adaptive Predecoding
 5. http://www.inference.org.uk/mackay/qeccFinal.pdf Sparse-Graph Codes for Quantum Error-Correction
 6. https://ieeexplore.ieee.org/document/910579 Efficient encoding of low-density parity-check codes
+7. https://www.weizmann.ac.il/math/vidick/sites/math.vidick/files/uploads/Bacon_IntroToQEC.pdf Introduction to Quantum Error Correction by Dave Bacon
 
 ## Want to Read
 
