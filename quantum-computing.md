@@ -38,4 +38,5 @@ This is a curated list of all the research that interest me.
 8. https://arxiv.org/abs/1205.2300 Quantum Tomography via Compressed Sensing: Error Bounds, Sample Complexity, and Efficient Estimators
 9. https://odr.chalmers.se/items/0b99f6af-a7d0-45f3-b747-1143d855f4a4 Machine Learning Assisted Quantum Error Correction Using Scalable Neural Network Decoders
 10. https://arxiv.org/pdf/1812.08451v5 Optimizing Quantum Error Correction Codes with Reinforcement Learning
+11. https://arxiv.org/abs/2101.08870 Information Scrambling in Computationally Complex Quantum Circuits
    
