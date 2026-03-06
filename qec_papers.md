@@ -30,7 +30,7 @@
 | 26 |  Pinball: A Cryogenic Predecoder for Quantum Error Correction Decoding Under Circuit-Level Noise              |     HPCA   | 2026 |    |
 | 27 |  Real-Time Decoding for Fault-Tolerant Quantum Computing:Progress, Challenges and Outlook |     Arxiv   | 2023 |    |
 | 28 |  Cellular-automaton decoders for topological quantum memories |     Nature   | 2015 |    |
-| 29 |  Rare Event Simulation of Quantum Error-Correcting Circuits |     Sandia Labs   | 2025 |    |
+| 29 |  _Rare Event Simulation of Quantum Error-Correcting Circuits_ |     _Sandia Labs_   | _2025_ | _Currently Reading_   |
 | 30 |  Digital-Analog-Digital Quantum Supremacy |     USC   | 2025 |    |
 | 31 |  Neural network decoder for near-term surface-code experiments |     TU Delft   | 2023 |    |
 | 32 |  MaxSAT decoders for arbitrary CSS codes |     Arxiv   | 2024 |    |
